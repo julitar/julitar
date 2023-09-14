@@ -18,13 +18,4 @@ My passion lies in education and technology. With a decade of experience in educ
 - 😄 Pronouns: She / Her 
 - ⚡ Fun fact: Harry Potter fan, of course. 
 
-<br>
-
-## Social Media
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/julitar) **Github** 
-<br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/julia-tartaglia-71766a68//)   **Linkedin**  
-
-
 
